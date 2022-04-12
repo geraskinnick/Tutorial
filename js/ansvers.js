@@ -284,3 +284,8 @@
 ecmel.vscode-html-css
 esbenp.prettier-vscode
 zhuangtongfa.material-theme
+tombonnike.vscode-status-bar-format-toggle
+ritwickdey.LiveServer
+MS-CEINTL.vscode-language-pack-ru
+streetsidesoftware.code-spell-checker
+
