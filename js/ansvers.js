@@ -278,3 +278,9 @@
 // const normalizedMessage = message.toLowerCase();
 // result = normalizedMessage.includes('spam') ||
 // normalizedMessage.includes('sale');
+
+
+
+ecmel.vscode-html-css
+esbenp.prettier-vscode
+zhuangtongfa.material-theme
