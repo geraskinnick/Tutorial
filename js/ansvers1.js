@@ -289,3 +289,7 @@ ritwickdey.LiveServer
 MS-CEINTL.vscode-language-pack-ru
 streetsidesoftware.code-spell-checker
 
+CoenraadS.bracket-pair-colorizer-2
+
+
+AlwarG.git-branch-files
